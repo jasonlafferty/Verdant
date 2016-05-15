@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'ember-rails'
 # gem 'ember-source' # You can specify the Ember.js version you want to use.(such as '~> 1.13.0')
+gem "haml-rails", "~> 0.9"
 gem 'ember_script-rails', :github => 'ghempton/ember-script-rails'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

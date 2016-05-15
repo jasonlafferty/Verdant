@@ -11,6 +11,10 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require ember
+//= require ember-data
+//= require ember-rails/application
+//= require ./my-app
+//= require_self
+
+require('my-app'); // Run your Ember.js application
