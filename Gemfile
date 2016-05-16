@@ -27,7 +27,7 @@ gem 'ember-rails'
 # gem 'ember-source' # You can specify the Ember.js version you want to use.(such as '~> 1.13.0')
 gem 'haml'
 gem 'devise'
-#gem 'ember_script-rails', :github => 'ghempton/ember-script-rails'
+gem "paperclip", "~> 5.0.0.beta1"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
